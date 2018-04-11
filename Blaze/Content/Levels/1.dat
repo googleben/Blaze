@@ -1,0 +1,15 @@
+﻿-50 -10 -20 150 10 40 
+115 -10 -80 35 10 40 
+200 -10 -140 40 10 40 
+Lights 
+-2.5 -7.5 -2.5 true 
+90 -7.5 -2.5 true 
+140 0 -57.5 false 
+Text
+0 20 0 Use\sA\sand\sD\sto\smove 0 
+107.5 20 0 Press\sSpace\sto\sjump 0 
+175 20 0 Use\sLeft\sand\sRight\sto\schange\sperspectives 0 
+Exit 
+204 0 -136 
+Spawn 
+0 0 0
